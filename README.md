@@ -33,7 +33,7 @@
 
 ###
 
-<p data-importer="text" align="left">Eu Dev juninho Ivan ....<br><br>- 🔭 Estou trabalhando  como TI...<br>- 📚 Atualmente curso Dev Full stack...<br>- ⚡ No meu tempo livre gosto de Desenvoler...</p>
+<p data-importer="text" align="left">Eu Dev juninho Ivan ....<br><br>- 🔭 Estou trabalhando  como TI...<br>- 📚 Atualmente curso Dev Full stack...<br>- ⚡ No meu tempo livre gosto de Desenvolver...</p>
 
 ###
 
